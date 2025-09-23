@@ -1,0 +1,15 @@
+vanilla js - > client
+
+npm create vite@latest
+npm install
+
+server 
+
+npm init -y
+npm install express nodemon
+
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "type": "module"
