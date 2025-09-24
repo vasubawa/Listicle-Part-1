@@ -1,6 +1,6 @@
 # WEB103 Project 1 - *Hollow Knight: Silksong Boss Guide*
 
-Submitted by: **Your name here**
+Submitted by: **Dhruv Sharma**
 
 About this web app: **A  guide to the bosses in Hollow Knight: Silksong, featuring detailed information about each boss including their locations, movesets, difficulty levels, and battle strategies.**
 
