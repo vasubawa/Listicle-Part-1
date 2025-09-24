@@ -1,13 +1,24 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>client</title>
-  </head>
-  <body>
-    <div id="app"></div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Silksong Bossboard</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="/src/style.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <header class="hero container-fluid">
+        <h1>Silksong Bossboard</h1>
+        <p>Master the bosses of Act 1</p>
+    </header>
+
+    <!-- Main Content -->
+    <main id="app">
+        <div class="loading">Loading bosses...</div>
+    </main>
+
     <script type="module" src="/src/main.js"></script>
-  </body>
+</body>
 </html>
